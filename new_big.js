@@ -177,16 +177,31 @@ const genEmail = length =>
   });
 
 const domain = [
-"creo.iotu.nctu.me",
-"nasa.dmtc.edu.pl",
-"41054733.mail-temp.com",
-"derbydales.co.uk",
-"aiot.vuforia.us",
-"edu.creo.site",
-"50sale.edu.vn",
-"aiot.aiphone.eu.org",
-"edu.dmtc.press",
-  "todayemail.ga"
+"cabekeriting99.com",
+"toppieter.com",
+"fikrinhdyh.cf",
+"inipunyakitasemua.gq",
+"mintadomaindong.tk",
+"newsusfun.com",
+"anaploxo.ga",
+"atm-mi.ga",
+"totobet.club",
+"payforclick.net",
+"bestats.top",
+"asghashasdhasjhashag.ml",
+"c99.me",
+"geludkita.gq",
+"titaspaharpur1.cf",
+"appmobile-documentneedtoupload.com",
+"kudaterbang.gq",
+"inipunyakitasemua.ga",
+"gianna1121.club",
+"z5cpw9pg8oiiuwylva.ml",
+"doyouneedrenovation.net",
+"lagicantiik.com",
+"dominatingg.top",
+"bestfakenews.xyz",
+"paharpurmim.gq"
 ];
 (async () => {
   for (let index = 0; index < LooP; index++) {
