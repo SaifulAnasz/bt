@@ -177,31 +177,7 @@ const genEmail = length =>
   });
 
 const domain = [
-"cabekeriting99.com",
-"toppieter.com",
-"fikrinhdyh.cf",
-"inipunyakitasemua.gq",
-"mintadomaindong.tk",
-"newsusfun.com",
-"anaploxo.ga",
-"atm-mi.ga",
-"totobet.club",
-"payforclick.net",
-"bestats.top",
-"asghashasdhasjhashag.ml",
-"c99.me",
-"geludkita.gq",
-"titaspaharpur1.cf",
-"appmobile-documentneedtoupload.com",
-"kudaterbang.gq",
-"inipunyakitasemua.ga",
-"gianna1121.club",
-"z5cpw9pg8oiiuwylva.ml",
-"doyouneedrenovation.net",
-"lagicantiik.com",
-"dominatingg.top",
-"bestfakenews.xyz",
-"paharpurmim.gq"
+"emakmintadomain.co"
 ];
 (async () => {
   for (let index = 0; index < LooP; index++) {
